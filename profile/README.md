@@ -1,12 +1,11 @@
-## Hi there 👋
+# Open Webtoon Reader - GitHub Organization
+Welcome to the Open Webtoon Reader GitHub organization! This organization hosts repositories for our webtoon reading and downloading application, including both the frontend app and the RESTful API. Below, you will find information about each project and how to get started.
 
-<!--
+## Projects
+### [OWR-APP](https://github.com/Open-Webtoon-Reader/OWR-APP)
+Sleek and intuitive frontend for a webtoon reading and downloading application.
 
-**Here are some ideas to get you started:**
+[Explore the live app](https://open-wr.dotslash.fr)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### [OWR-API](https://github.com/Open-Webtoon-Reader/OWR-API)
+A RESTful API for the webtoon reader and downloader application.
